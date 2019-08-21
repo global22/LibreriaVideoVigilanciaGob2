@@ -20,7 +20,12 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven { url "https://dl.bintray.com/global/IntegracionVideoVigilanciaGob/"}
         
+    }
+
+    subprojects {
+        tasks.withType(Javadoc).all { enabled = false }
     }
 }
 
