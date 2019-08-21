@@ -6,7 +6,7 @@ ext {
     //project name
     bintrayName = 'IntegracionVideoVigilanciaGob'
     //enter your package name
-    publishedGroupId = 'com.global.web.integracionvideovigilanciagob'
+    publishedGroupId = 'com.global.videovigilanciagob'
     //project name
     libraryName = 'IntegracionVideoVigilanciaGob'
     //project name
@@ -14,8 +14,8 @@ ext {
 // some description about your library
     libraryDescription = 'Libraria para lanzamiento de IntegracionVideoVigilancia gobierno.'
     // github
-    siteUrl = 'https://github.com/global22/LibreriaVideoVigilanciaGob'
-    gitUrl = 'https://github.com/global22/LibreriaVideoVigilanciaGob.git'
+    siteUrl = 'https://github.com/global22/LibreriaVideoVigilanciaGob2'
+    gitUrl = 'https://github.com/global22/LibreriaVideoVigilanciaGob2.git'
 
     libraryVersion = '0.0.1'
 
