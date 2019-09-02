@@ -17,7 +17,7 @@ ext {
     siteUrl = 'https://github.com/global22/LibreriaVideoVigilanciaGob2'
     gitUrl = 'https://github.com/global22/LibreriaVideoVigilanciaGob2.git'
 
-    libraryVersion = '0.0.1'
+    libraryVersion = '0.0.4'
 
     developerId = 'global'
     developerName = 'Global Corporation'
