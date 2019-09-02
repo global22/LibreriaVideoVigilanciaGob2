@@ -38,7 +38,6 @@ public class AlertaIntegracion extends AppCompatActivity {
                         finish();
                     }
                 });
-
         return builder.create();
     }
 
